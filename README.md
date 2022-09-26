@@ -38,6 +38,8 @@
 
 
 ## How to deploy and run
+>Optional for the code backup, but should be included for new projects 
+
 TODO
 - Step 1
 - Step 2

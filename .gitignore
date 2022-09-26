@@ -106,5 +106,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# PyCharm project
+.idea
+
 *credentials.json
 *.DS_Store
