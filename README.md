@@ -25,11 +25,11 @@
 
 |                         |                                                                  | 
 |-------------------------|:----------------------------------------------------------------:|
-| **GCP project:**        |           [project-name](https://)                               |
+| **GCP project:**        |                     [project-name](https://)                     |
 | **GCP project owner:**  |                          JFAU or client                          |
-| **Code owner:**         |                           <code-owner>                           |
-| **CM contact:**         |                           <cm-contact>                           |
-| **Client contact:**     |                           <code-owner>                           |
+| **Code owner:**         |                            "code-owner"                            |
+| **CM contact:**         |                            "cm-contact"                            |
+| **Client contact:**     |                          "client-contact"                          |
 | **GCP resource:**       | [cloud function, cloud run, VM, running locally, etc.](https://) | 
 | **Project status:**     |       template, production, deprecated, testing code, etc.       |
 | **Asana ticket:**       |                     [Asana ticket](https://)                     |
